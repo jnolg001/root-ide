@@ -1,2 +1,1 @@
-# root-ide
-This is a test aide app.
+#  https://github.com/jnolg001/android-build/root-ide
